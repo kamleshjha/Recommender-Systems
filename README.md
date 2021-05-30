@@ -1,2 +1,2 @@
 # Recommender-Systems
-Different Recommendor Systems used in Python
+Different Recommendor Systems implemented using Python
